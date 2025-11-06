@@ -56,6 +56,6 @@ Each record represents either an individual (node) or a connection (edge).
 
 ### Local Development  
 ```bash
-git clone https://github.com/YOUR_USERNAME/PH104-Network-Analysis.git
-cd PH104-Network-Analysis
+git clone https://github.com/YOUR_USERNAME/SNA.git
+cd SNA
 pip install -r requirements.txt (to be provided at a later date)
