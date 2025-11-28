@@ -1,0 +1,13 @@
+name: sna_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10          # Recommended modern, stable Python version
+  - pandas               # For reading and managing dataframes (Excel file)
+  - openpyxl             # Pandas dependency for reading .xlsx files
+  - networkx=3.2         # The main SNA library
+  - joblib               # Conda dependency for parallel computing (nx.betweenness_centrality)
+  - pip
+  - pip:
+    - networkx[parallel] # PIP is needed to install the parallel extension for NetworkX
