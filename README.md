@@ -1,7 +1,7 @@
 # Social Network Analysis for Gun Violence
 
 **Institution:** University of Alabama at Birmingham  
-**Team:** Alora Alexander, Jimmy Harris, Kamila Jusino-Meléndez, Kabilan Selvakumar  
+**Team:** Alora Alexander, Jimmy Harris, Kamila Jusino, Kabilan Selvakumar  
 **Senior Data Fellow:** Dr. Jeff Walker
 
 ---
