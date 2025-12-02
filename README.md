@@ -8,7 +8,7 @@
 
 ##  Project Overview  
 
-This research project applies **Social Network Analysis (SNA)** to understand social relationships and structures in communities impacted by **gun violence**. Each individual in the dataset is modeled as a **node**, and their connections (friendships, interactions, or overlaps) are treated as **edges**. By calculating network metrics like **degree centrality** and **betweenness centrality**, we aim to identify key actors, influential connections, and community structures that might inform further sociological and predictive modeling research.
+This research project applies **Social Network Analysis** to understand social relationships and structures in communities impacted by **gun violence**. Each individual in the dataset is modeled as a **node**, and their connections (friendships, interactions, or overlaps) are treated as **edges**. By calculating network metrics like **degree centrality** and **betweenness centrality**, we aim to identify key actors, influential connections, and community structures that might inform further sociological and predictive modeling research.
 
 ---
 
